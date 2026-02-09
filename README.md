@@ -4,6 +4,13 @@ A lightweight Snake clone developed in C++ using SFML.
 
 This project was created as a hobby experiment to explore low-level gameplay programming without relying on a game engine.
 
+## Note
+
+This project was created as an experiment to evaluate AI-assisted development workflows.
+
+I focused on reviewing, debugging, and integrating the generated code while analyzing the quality of AI-produced gameplay logic.
+
+
 ## Focus Areas
 
 - Grid-based movement system  
