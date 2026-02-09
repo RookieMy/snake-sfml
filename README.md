@@ -1,0 +1,31 @@
+# Snake – Grid-Based Gameplay Experiment (C++ / SFML)
+
+A lightweight Snake clone developed in C++ using SFML.
+
+This project was created as a hobby experiment to explore low-level gameplay programming without relying on a game engine.
+
+## Focus Areas
+
+- Grid-based movement system  
+- Real-time input handling  
+- Collision detection  
+- Game loop architecture  
+- Score tracking  
+
+## Why This Project?
+
+While most of my work focuses on engine-based development (Unity), this project demonstrates my ability to implement core gameplay systems from scratch using native C++.
+
+It reflects my interest in understanding the underlying mechanics of interactive systems rather than relying solely on engine abstractions.
+
+## Controls
+
+Arrow Keys → Move  
+R → Restart  
+
+## Requirements
+
+- SFML  
+- Visual Studio (recommended)
+
+⚠️ Make sure `LiberationSans.ttf` is located next to the executable.
