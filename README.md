@@ -10,6 +10,12 @@ This project was created as an experiment to evaluate AI-assisted development wo
 
 I focused on reviewing, debugging, and integrating the generated code while analyzing the quality of AI-produced gameplay logic.
 
+## Experiment Goal
+
+- Evaluate AI-generated code quality  
+- Identify common architectural weaknesses  
+- Test debugging workflows  
+- Analyze gameplay logic produced by AI
 
 ## Focus Areas
 
