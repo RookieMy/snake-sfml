@@ -9,6 +9,8 @@ This project was created as a hobby experiment to explore low-level gameplay pro
 This project was created as an experiment to evaluate AI-assisted development workflows.
 
 I focused on reviewing, debugging, and integrating the generated code while analyzing the quality of AI-produced gameplay logic.
+(I treat AI as an iteration and validation tool rather than a source of truth.
+Core system design, constraints, and final implementation decisions are always human-driven.)
 
 ## Experiment Goal
 
